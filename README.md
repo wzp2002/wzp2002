@@ -14,6 +14,8 @@ I did, before the college. I wrote easy pieces, but not here.
 
 Yup, 'cuz I just wanted to and I probably don't have a better place to do this elsewhere. And this platform is familiar to me.
 
+Update: Probably not in the future, as the files is getting bigger, I can't upload file bigger than 100 MB. I'm considering other way to do it.
+
 ## Future Plans?
 
 I would do some 3D-printing later, so I will also open-source those 3D-modeling files I do in the future.
